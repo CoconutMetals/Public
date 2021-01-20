@@ -16,7 +16,7 @@
 
 # Setting path variables for each of the file servers. I can't seem to CD to an entire fileserver, I have to select a folder within the server to navigate. That's okay for now.
 
-# $1path = 
+# $1path = "\\'
 # $2path = "\\"
 # $3path = "\\"
 # $4path = "\\"
